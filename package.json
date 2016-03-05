@@ -1,0 +1,27 @@
+{
+  "name": "node-espresso",
+  "version": "1.0.0",
+  "description": "An espresso client for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulot/node-espresso.git"
+  },
+  "keywords": [
+    "espresso"
+  ],
+  "author": "paulot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulot/node-espresso/issues"
+  },
+  "homepage": "https://github.com/paulot/node-espresso#readme",
+  "dependencies": {
+    "babel-core": "^6.6.5",
+    "babel-preset-es2015": "^6.6.0",
+    "bluebird": "^3.3.3"
+  }
+}
