@@ -1,6 +1,6 @@
 {
   "name": "node-espresso",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An espresso client for node",
   "main": "index.js",
   "scripts": {
