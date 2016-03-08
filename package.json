@@ -1,8 +1,8 @@
 {
   "name": "node-espresso",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An espresso client for node",
-  "main": "dist/src/client.js",
+  "main": "./dist/src/client.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src/*.js -d dist",
     "prepublish": "npm run build",
